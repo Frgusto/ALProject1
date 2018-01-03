@@ -1,0 +1,23 @@
+{
+  "id": "71881af5-9879-4083-8239-e768bfc186e1",
+  "name": "newTable and newPage",
+  "publisher": "Kentor",
+  "brief": "",
+  "description": "Testing AL",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "http://www.kentor.se",
+  "EULA": "http://www.kentor.se",
+  "help": "http://www.kentor.se",
+  "url": "http://www.kentor.se",
+  "logo": "./logo/SorpaSteria_KentorV.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.19.394",
+  "application": "11.0.19.394",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
