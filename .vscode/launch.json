@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "NAV2018Cronus",
+            "type": "al",
+            "request": "launch",
+            "server": "http://teamerp001.kentor.cloud",
+            "port": 7049,
+            "serverInstance": "DynamicsNAV110",
+            "authentication": "Windows"            
+        }
+    ]
+}
