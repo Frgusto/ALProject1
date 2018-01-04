@@ -6,9 +6,9 @@
             "type": "al",
             "request": "launch",
             "server": "http://teamerp001.kentor.cloud",
-            "port": 7049,
-            "serverInstance": "DynamicsNAV110",
-            "authentication": "Windows"            
+            "port": 8049,
+            "serverInstance": "NAV110NAVUP",
+            "authentication": "UserPassword"                            
         }
     ]
 }
